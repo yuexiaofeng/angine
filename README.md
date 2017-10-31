@@ -158,7 +158,7 @@ The "angine.Initialize" will handle the generation of default configs, genesis f
 
 <a id="org19c7657"></a>
 
-### Construct an Tunes.
+### Construct a Tunes
 
     type Tunes struct {
         Runtime string
